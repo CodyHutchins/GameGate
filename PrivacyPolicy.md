@@ -1,1 +1,2 @@
 # GameGate
+Privacy policy here!
